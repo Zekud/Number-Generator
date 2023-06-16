@@ -1,6 +1,6 @@
 # NumberGenerator
 this project is done using html,css and js.
-in this simple project the user can choose how many numbers to generate 
+in this simple project the user can choose how many numbers to generate.
 after clicking the generate button it will generate numbers in different color.
 green for even numbers,
 yellow for odd numbers and
